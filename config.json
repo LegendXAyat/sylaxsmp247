@@ -1,0 +1,9 @@
+{
+	"ip":"SyLaxSMP.aternos.me",
+	"port": 30256,
+	"name": "SyLaxSMP",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register sylax123** sylax123**",
+	"login-cmd":"/login sylax123**"
+}
